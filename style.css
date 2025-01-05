@@ -1,0 +1,54 @@
+.divh1 {
+    background-color:rosybrown;
+    color: aqua;
+    text-align: center;
+    height: 50px;
+    padding: auto;
+    width: 50%;
+    margin: auto;   
+}
+.list ul{
+    
+    
+    text-align: center;
+    color: aqua;
+
+}
+
+.list ul li{
+    background-color: brown;
+    margin-bottom: 5px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.list2 .li{
+    color: red;
+    list-style: none;
+    margin: auto;
+}
+.list2{
+    margin: auto;
+}
+
+input[type="text"]{
+    color: red;
+}
+
+.div3{
+    
+    border: 2px solid aqua;
+    height: 700px;
+    padding-left: 20px;
+    width: 50%;
+    margin: auto;
+    background-image:url("https://as1.ftcdn.net/v2/jpg/04/35/92/40/1000_F_435924070_A2n5ZyQUF7nCRsYZj6SX1SAYOn5sggFh.jpg") ;
+
+
+}
+
+
+
+
