@@ -45,8 +45,12 @@ input[type="text"]{
     width: 50%;
     margin: auto;
     background-image:url("https://as1.ftcdn.net/v2/jpg/04/35/92/40/1000_F_435924070_A2n5ZyQUF7nCRsYZj6SX1SAYOn5sggFh.jpg") ;
-
-
+}
+.img{
+    
+    
+    border: 2px solid grey;
+    background-image: url("https://cdn.prod.website-files.com/5d8a4999eaa8abe6956c8ae5/6030deba4ce734f409613c09_MWVS5789-X3.jpg");
 }
 
 
